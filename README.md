@@ -14,3 +14,4 @@ In this project I learned about using CSS to animate a custom navigation bar
 -  Code cleanup to reduce multiple CSS class replace calls as well as reduce event listener lines  
 
 See it live here:  
+https://braston.github.io/animated-navigation/
